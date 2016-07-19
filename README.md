@@ -1,2 +1,2 @@
 # cross-compiler
-Cross compiler for the NAO, gcc version 6.1.0
+Cross compiler for the NAO, gcc version 5.2.0
